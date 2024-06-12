@@ -1,6 +1,6 @@
 date : 2024-06-13
 
-youtube link : 한시간만에 Node.js 백엔드 기초 끝내기(ft.API 구축), https://youtu.be/Tt_tKhhhJqY?si=kXBytS_xC8zOW5vx
+youtube link : https://youtu.be/Tt_tKhhhJqY?si=kXBytS_xC8zOW5vx
 
 title : Node.js 백엔드 기초
 
